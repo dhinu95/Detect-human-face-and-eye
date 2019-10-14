@@ -1,7 +1,7 @@
 # EMOTION RECOGNITION.
 ## Built a model to recognize emotions from human face using Neural Network(CNN). 
 
-### Libraries used:
+## Libraries used:
 #### Keras
    Keras is an open-source neural-network library written in Python. It is capable of running on top of TensorFlow, Microsoft Cognitive 
    Toolkit, Theano, or PlaidML. Designed to enable fast experimentation with deep neural networks, it focuses on being user-friendly, 
@@ -17,7 +17,7 @@
    
    
 
-### Process
+## Process
 #### 1. Dataset (FER2013.csv)
    In this project used FER2013 dataset and created own face dataset using Cascade Classifier / Violes-Jones method.Collective of 36,210      samples.
 

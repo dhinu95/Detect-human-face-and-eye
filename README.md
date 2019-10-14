@@ -1,5 +1,5 @@
 # EMOTION RECOGNITION.
-### Built a model to recognize emotions from human face using Neural Network(CNN). 
+#### Built a model to recognize emotions from human face using Neural Network(CNN). 
 
 ## Libraries used:
 #### Keras
@@ -15,7 +15,7 @@
    Pandas is the most popular python library that is used for data manipulation and data analysis.n particular, it offers data 
    structures and operations for manipulating numerical tables and time series. 
 
-#### Numpy
+#### NumPy
    NumPy is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for 
    working with these arrays.
    

@@ -1,5 +1,5 @@
 # EMOTION RECOGNITION.
-## Built a model to recognize emotions from human face using Neural Network(CNN). 
+### Built a model to recognize emotions from human face using Neural Network(CNN). 
 
 ## Libraries used:
 #### Keras

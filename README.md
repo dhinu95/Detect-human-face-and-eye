@@ -7,9 +7,13 @@
    Toolkit, Theano, or PlaidML. Designed to enable fast experimentation with deep neural networks, it focuses on being user-friendly, 
    modular, and extensible.
    
+#### OpenCV
+   OpenCV is a cross-platform library using which we can develop real-time computer vision applications. It mainly focuses on image 
+   processing, video capture and analysis including features like face detection and object detection. 
+
 #### Pandas
-   Pandas is the most popular python library that is used for data manipulation and data analysis.n particular, it offers data structures 
-   and operations for manipulating numerical tables and time series. 
+   Pandas is the most popular python library that is used for data manipulation and data analysis.n particular, it offers data 
+   structures and operations for manipulating numerical tables and time series. 
 
 #### Numpy
    NumPy is a general-purpose array-processing package. It provides a high-performance multidimensional array object, and tools for 
